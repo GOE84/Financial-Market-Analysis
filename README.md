@@ -1,8 +1,8 @@
-# 📈 Stock Price Prediction using Machine Learning
+<img width="848" height="470" alt="Test1" src="https://github.com/user-attachments/assets/0a634a2b-6568-49cf-8914-f32d3edf4ff1" /># 📈 Stock Price Prediction using Machine Learning
 
 A machine learning project to predict **Apple (AAPL)** stock prices using historical data and Technical Indicators. This project demonstrates the end-to-end data science pipeline, from data ingestion to model evaluation.
 
-
+<img width="848" height="470" alt="Test1" src="https://github.com/user-attachments/assets/b92749c9-b709-4bef-83ef-8c2046dff069" />
 
 ## 🛠️ Tech Stack
 - **Python** (Pandas, NumPy)
