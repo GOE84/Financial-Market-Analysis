@@ -53,7 +53,7 @@ The goal is to demonstrate the end-to-end process of a financial ML project, fro
 
 The model was evaluated on unseen test data with the following results:
 
-- **RMSE:** `$15.76 USD`
+- **RMSE:** `$13.76 USD`
 - **Key Observations:**
     - The model successfully captures the general long-term trend of gold prices.
     - As expected with Linear Regression, there is a slight lag during high-volatility periods, and the prediction line is smoother than the actual price action.
