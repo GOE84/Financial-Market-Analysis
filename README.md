@@ -68,5 +68,3 @@ Make sure you have Python installed.
    git clone [https://github.com/YOUR_USERNAME/stock-prediction-ml.git](https://github.com/YOUR_USERNAME/stock-prediction-ml.git)
    cd stock-prediction-ml
 
-
-   wfwdfdssvsdfsdefgefg
